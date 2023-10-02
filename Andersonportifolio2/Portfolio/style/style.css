@@ -102,7 +102,7 @@ body {
 }
 
     .apresentacao-conteudo-texto {
-        font-family: 'Roboto', sans-serif; /* Escolha uma fonte que você gosta */
+        font-family: 'Roboto Slab', sans-serif; /* Escolha uma fonte que você gosta */
         font-size: 20px; /* Tamanho de fonte legível */
         color: #ffffff; /* Cor do texto (preto escuro) */
         text-align: justify;
@@ -475,7 +475,7 @@ body {
 
     .rodape {
         color: white;
-        background-color: #;
+        background-color: #000;
         display: flex;
         align-items: center;
         justify-content: center;

@@ -127,7 +127,7 @@ body {
 /* Espaçamento entre o conteúdo principal (main) e o rodapé (footer) */
 .rodape {
     color: white;
-    background-color: #;
+    background-color: #000;
     display: flex;
     align-items: center;
     justify-content: center;
